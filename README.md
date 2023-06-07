@@ -12,4 +12,4 @@ joao.grossl@escola.pr.gov.br
 
 @...
 
-![]()
+![.]()
