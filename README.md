@@ -9,4 +9,7 @@ Meu nome é João
 ### Você pode entrar em contato comigo 📫
 
 joao.grossl@escola.pr.gov.br
+
 @...
+
+![.]()
