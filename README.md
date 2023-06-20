@@ -13,4 +13,3 @@ joao.grossl@escola.pr.gov.br
 @...
 
 ![.](![image](https://github.com/J04018/J04018/assets/133060195/1fbcdc43-c4e2-4dd9-8290-2eeb340b16e1)
-)
